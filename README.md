@@ -52,5 +52,5 @@ See [`CLAUDE.md`](./CLAUDE.md) for the complete design brief.
 
 1. Read the brief → [`CLAUDE.md`](./CLAUDE.md).
 2. Read discovery findings → [`research/research.md`](./research/research.md).
-3. Follow the pipeline folders in order; each folder's `README.md` states its inputs,
-   outputs, and current status.
+3. Follow the pipeline folders in order — each is a stage to fill as the work
+   progresses.

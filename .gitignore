@@ -24,3 +24,6 @@ next-env.d.ts
 
 # Env
 .env*
+
+# Playwright MCP temp output
+.playwright-mcp/
